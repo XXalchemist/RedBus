@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test parallel="classes" name="Test(failed)">
+    <classes>
+      <class name="in.redbus.tests.HomePageTest">
+        <methods>
+          <include name="createReport"/>
+          <include name="whenUserClickOnBusTicketLink"/>
+          <include name="whenUserClickOnBusHireLink"/>
+          <include name="whenUserClickOnRedBusLogo"/>
+          <include name="endReport"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="initDriver"/>
+        </methods>
+      </class> <!-- in.redbus.tests.HomePageTest -->
+      <class name="in.redbus.tests.SearchPageTest">
+        <methods>
+          <include name="createReport"/>
+          <include name="whenUserEntersValidFromAndValidToAndValidDate"/>
+          <include name="whenUserEntersInvalidFromAndValidToAndValidDate"/>
+          <include name="whenUserEntersValidFromAndInvalidToAndValidDate"/>
+          <include name="endReport"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="initDriver"/>
+        </methods>
+      </class> <!-- in.redbus.tests.SearchPageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

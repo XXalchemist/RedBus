@@ -1,0 +1,309 @@
+2021-02-11 19:04:55,466  INFO [main] BaseTest:159 - https://www.redbus.in/ page opened...
+ 2021-02-11 19:04:55,479  INFO [main] BaseTest:23 - ----------------------------------------------------------------------
+ 2021-02-11 19:04:55,479  INFO [main] BaseTest:26 - Test Data For Worksheet Name SearchPageTestData And For Test Case whenUserEntersInvalidFromAndValidToAndValidDate
+ 2021-02-11 19:04:55,480  INFO [main] BaseTest:32 - Expected Title : Book Bus Travels, AC Volvo Bus, rPool & Bus Hire - redBus India
+ 2021-02-11 19:04:55,480  INFO [main] BaseTest:32 - Working : yes
+ 2021-02-11 19:04:55,480  INFO [main] BaseTest:32 - Execution Required : yes
+ 2021-02-11 19:04:55,481  INFO [main] BaseTest:32 - From : 1542chennai
+ 2021-02-11 19:04:55,481  INFO [main] BaseTest:32 - To : New Delhi
+ 2021-02-11 19:04:55,481  INFO [main] BaseTest:32 - TestCaseName : whenUserEntersInvalidFromAndValidToAndValidDate
+ 2021-02-11 19:04:55,481  INFO [main] BaseTest:32 - Date : 28-Mar 2021
+ 2021-02-11 19:04:55,482  INFO [main] BaseTest:38 - ----------------------------------------------------------------------
+ 2021-02-11 19:04:55,624  INFO [main] BaseTest:166 - 1542chennai was entered
+ 2021-02-11 19:04:55,778  INFO [main] BaseTest:170 - New Delhi was entered
+ 2021-02-11 19:05:08,049  INFO [main] BaseTest:198 - Browser closed...
+ 2021-02-11 19:05:20,064  INFO [main] BaseTest:159 - https://www.redbus.in/ page opened...
+ 2021-02-11 19:05:20,066  INFO [main] BaseTest:23 - ----------------------------------------------------------------------
+ 2021-02-11 19:05:20,067  INFO [main] BaseTest:26 - Test Data For Worksheet Name SearchPageTestData And For Test Case whenUserEntersValidFromAndInvalidToAndValidDate
+ 2021-02-11 19:05:20,067  INFO [main] BaseTest:32 - Expected Title : Book Bus Travels, AC Volvo Bus, rPool & Bus Hire - redBus India
+ 2021-02-11 19:05:20,068  INFO [main] BaseTest:32 - Working : yes
+ 2021-02-11 19:05:20,068  INFO [main] BaseTest:32 - Execution Required : yes
+ 2021-02-11 19:05:20,068  INFO [main] BaseTest:32 - From : New Delhi
+ 2021-02-11 19:05:20,068  INFO [main] BaseTest:32 - To : 1542chennai
+ 2021-02-11 19:05:20,069  INFO [main] BaseTest:32 - TestCaseName : whenUserEntersValidFromAndInvalidToAndValidDate
+ 2021-02-11 19:05:20,069  INFO [main] BaseTest:32 - Date : 28-Mar 2021
+ 2021-02-11 19:05:20,069  INFO [main] BaseTest:38 - ----------------------------------------------------------------------
+ 2021-02-11 19:05:20,196  INFO [main] BaseTest:111 - New Delhi was entered
+ 2021-02-11 19:05:20,349  INFO [main] BaseTest:115 - 1542chennai was entered
+ 2021-02-11 19:05:32,539  INFO [main] BaseTest:198 - Browser closed...
+ 2021-02-11 19:05:45,014  INFO [main] BaseTest:159 - https://www.redbus.in/ page opened...
+ 2021-02-11 19:05:45,015  INFO [main] BaseTest:23 - ----------------------------------------------------------------------
+ 2021-02-11 19:05:45,016  INFO [main] BaseTest:26 - Test Data For Worksheet Name SearchPageTestData And For Test Case whenUserEntersValidFromAndValidToAndValidDate
+ 2021-02-11 19:05:45,016  INFO [main] BaseTest:32 - Expected Title : Delhi to Patna(bihar)
+ 2021-02-11 19:05:45,016  INFO [main] BaseTest:32 - Working : yes
+ 2021-02-11 19:05:45,016  INFO [main] BaseTest:32 - Execution Required : yes
+ 2021-02-11 19:05:45,017  INFO [main] BaseTest:32 - From : New Delhi
+ 2021-02-11 19:05:45,017  INFO [main] BaseTest:32 - To : Patna (Bihar)
+ 2021-02-11 19:05:45,017  INFO [main] BaseTest:32 - TestCaseName : whenUserEntersValidFromAndValidToAndValidDate
+ 2021-02-11 19:05:45,017  INFO [main] BaseTest:32 - Date : 28-Apr 2021
+ 2021-02-11 19:05:45,017  INFO [main] BaseTest:38 - ----------------------------------------------------------------------
+ 2021-02-11 19:05:45,143  INFO [main] BaseTest:55 - New Delhi was entered
+ 2021-02-11 19:05:45,296  INFO [main] BaseTest:59 - Patna (Bihar) was entered
+ 2021-02-11 19:05:57,471  INFO [main] BaseTest:198 - Browser closed...
+ 2021-02-11 19:06:07,186  INFO [main] BaseTest:159 - https://www.redbus.in/ page opened...
+ 2021-02-11 19:06:07,187  INFO [main] BaseTest:23 - ----------------------------------------------------------------------
+ 2021-02-11 19:06:07,188  INFO [main] BaseTest:26 - Test Data For Worksheet Name HomePageTestData And For Test Case whenUserClickOnBusHireLink
+ 2021-02-11 19:06:07,188  INFO [main] BaseTest:32 - Expected Title : Bus Hire: Rent Volvo, AC buses, Mini Buses, Tempo Travellers & Innova Cars - Book Online
+ 2021-02-11 19:06:07,188  INFO [main] BaseTest:32 - Working : yes
+ 2021-02-11 19:06:07,189  INFO [main] BaseTest:32 - Execution Required : yes
+ 2021-02-11 19:06:07,189  INFO [main] BaseTest:32 - TestCaseName : whenUserClickOnBusHireLink
+ 2021-02-11 19:06:07,189  INFO [main] BaseTest:38 - ----------------------------------------------------------------------
+ 2021-02-11 19:06:12,150  INFO [main] BaseTest:86 - BusHireLink was clicked
+ 2021-02-11 19:06:12,161  INFO [main] BaseTest:90 - Actual Title :bus hire: rent volvo, ac buses, mini buses, tempo travellers & innova cars - book online
+ 2021-02-11 19:06:12,722  INFO [main] BaseTest:198 - Browser closed...
+ 2021-02-11 19:06:18,023  INFO [main] BaseTest:159 - https://www.redbus.in/ page opened...
+ 2021-02-11 19:06:18,024  INFO [main] BaseTest:23 - ----------------------------------------------------------------------
+ 2021-02-11 19:06:18,024  INFO [main] BaseTest:26 - Test Data For Worksheet Name HomePageTestData And For Test Case whenUserClickOnBusTicketLink
+ 2021-02-11 19:06:18,024  INFO [main] BaseTest:32 - Expected Title : Online Bus Tickets Booking: Book Bus Ticket and Bus Reservation -redBus India
+ 2021-02-11 19:06:18,025  INFO [main] BaseTest:32 - Working : yes
+ 2021-02-11 19:06:18,025  INFO [main] BaseTest:32 - Execution Required : yes
+ 2021-02-11 19:06:18,026  INFO [main] BaseTest:32 - TestCaseName : whenUserClickOnBusTicketLink
+ 2021-02-11 19:06:18,026  INFO [main] BaseTest:38 - ----------------------------------------------------------------------
+ 2021-02-11 19:06:25,964  INFO [main] BaseTest:162 - BusTickets Link was clicked
+ 2021-02-11 19:06:25,975  INFO [main] BaseTest:166 - Actual Title :online bus tickets booking: book bus ticket and bus reservation -redbus india
+ 2021-02-11 19:06:26,537  INFO [main] BaseTest:198 - Browser closed...
+ 2021-02-11 19:06:33,734  INFO [main] BaseTest:159 - https://www.redbus.in/ page opened...
+ 2021-02-11 19:06:33,734  INFO [main] BaseTest:23 - ----------------------------------------------------------------------
+ 2021-02-11 19:06:33,734  INFO [main] BaseTest:26 - Test Data For Worksheet Name HomePageTestData And For Test Case whenUserClickOnRPoolLink
+ 2021-02-11 19:06:33,734  INFO [main] BaseTest:32 - Expected Title : rPool - India’s new Carpool & Bikepool mobile app
+ 2021-02-11 19:06:33,735  INFO [main] BaseTest:32 - Working : yes
+ 2021-02-11 19:06:33,735  INFO [main] BaseTest:32 - Description : Assertion done on the title of the page
+ 2021-02-11 19:06:33,735  INFO [main] BaseTest:32 - Execution Required : yes
+ 2021-02-11 19:06:33,735  INFO [main] BaseTest:32 - TestCaseName : whenUserClickOnRPoolLink
+ 2021-02-11 19:06:33,735  INFO [main] BaseTest:38 - ----------------------------------------------------------------------
+ 2021-02-11 19:06:42,183  INFO [main] BaseTest:45 - RPool was clicked
+ 2021-02-11 19:06:42,191  INFO [main] BaseTest:49 - Title :rpool - india’s new carpool & bikepool mobile app
+ 2021-02-11 19:06:42,750  INFO [main] BaseTest:198 - Browser closed...
+ 2021-02-11 19:06:52,801  INFO [main] BaseTest:159 - https://www.redbus.in/ page opened...
+ 2021-02-11 19:06:52,802  INFO [main] BaseTest:23 - ----------------------------------------------------------------------
+ 2021-02-11 19:06:52,803  INFO [main] BaseTest:26 - Test Data For Worksheet Name HomePageTestData And For Test Case whenUserClickOnRedBusLogo
+ 2021-02-11 19:06:52,803  INFO [main] BaseTest:32 - Expected Title : Book Bus Travels, AC Volvo Bus, rPool & Bus Hire - redBus India
+ 2021-02-11 19:06:52,803  INFO [main] BaseTest:32 - Working : yes
+ 2021-02-11 19:06:52,803  INFO [main] BaseTest:32 - Execution Required : yes
+ 2021-02-11 19:06:52,803  INFO [main] BaseTest:32 - TestCaseName : whenUserClickOnRedBusLogo
+ 2021-02-11 19:06:52,804  INFO [main] BaseTest:38 - ----------------------------------------------------------------------
+ 2021-02-11 19:06:57,384  INFO [main] BaseTest:124 - RedBusLogo was clicked
+ 2021-02-11 19:06:57,389  INFO [main] BaseTest:128 - Actual Title :book bus travels, ac volvo bus, rpool & bus hire - redbus india
+ 2021-02-11 19:06:57,960  INFO [main] BaseTest:198 - Browser closed...
+ 2021-02-11 19:07:11,281  INFO [main] BaseTest:159 - https://www.redbus.in/ page opened...
+ 2021-02-11 19:07:11,283  INFO [main] BaseTest:23 - ----------------------------------------------------------------------
+ 2021-02-11 19:07:11,283  INFO [main] BaseTest:26 - Test Data For Worksheet Name BusHirePageTestData And For Test Case whenUserClickedOnAirportMenu
+ 2021-02-11 19:07:11,283  INFO [main] BaseTest:32 - Description : Assert header Summary label
+ 2021-02-11 19:07:11,283  INFO [main] BaseTest:32 - Execution Required : yes
+ 2021-02-11 19:07:11,283  INFO [main] BaseTest:32 - TestCaseName : whenUserClickedOnAirportMenu
+ 2021-02-11 19:07:11,283  INFO [main] BaseTest:32 - Expected Result : Airport
+ 2021-02-11 19:07:11,283  INFO [main] BaseTest:38 - ----------------------------------------------------------------------
+ 2021-02-11 19:07:14,803  INFO [main] BaseTest:508 - Bus Hire link was clicked
+ 2021-02-11 19:07:18,115  INFO [main] BaseTest:512 - Airport Menu was selected
+ 2021-02-11 19:07:18,164  INFO [main] BaseTest:521 - Actual Result : airport
+ 2021-02-11 19:07:18,726  INFO [main] BaseTest:198 - Browser closed...
+ 2021-02-11 19:07:23,442  INFO [main] BaseTest:159 - https://www.redbus.in/ page opened...
+ 2021-02-11 19:07:23,443  INFO [main] BaseTest:23 - ----------------------------------------------------------------------
+ 2021-02-11 19:07:23,444  INFO [main] BaseTest:26 - Test Data For Worksheet Name BusHirePageTestData And For Test Case whenUserClickedOnLocalMenu
+ 2021-02-11 19:07:23,444  INFO [main] BaseTest:32 - Description : Assert header Summary label
+ 2021-02-11 19:07:23,444  INFO [main] BaseTest:32 - Execution Required : yes
+ 2021-02-11 19:07:23,444  INFO [main] BaseTest:32 - TestCaseName : whenUserClickedOnLocalMenu
+ 2021-02-11 19:07:23,444  INFO [main] BaseTest:32 - Expected Result : Local
+ 2021-02-11 19:07:23,444  INFO [main] BaseTest:38 - ----------------------------------------------------------------------
+ 2021-02-11 19:07:29,929  INFO [main] BaseTest:457 - Bus Hire link was clicked
+ 2021-02-11 19:07:35,582  INFO [main] BaseTest:461 - Local Menu was selected
+ 2021-02-11 19:07:40,608  INFO [main] BaseTest:473 - Actual Result : local
+ 2021-02-11 19:07:41,173  INFO [main] BaseTest:198 - Browser closed...
+ 2021-02-11 19:07:49,982  INFO [main] BaseTest:159 - https://www.redbus.in/ page opened...
+ 2021-02-11 19:07:49,983  INFO [main] BaseTest:23 - ----------------------------------------------------------------------
+ 2021-02-11 19:07:49,983  INFO [main] BaseTest:26 - Test Data For Worksheet Name BusHirePageTestData And For Test Case whenUserDoesNotEnterFromDateAndTimeForOutstation
+ 2021-02-11 19:07:49,984  INFO [main] BaseTest:32 - Destination Location : Greater Noida, Pari Chowk, NRI City, Omega II, Greater Noida, Uttar Pradesh, India
+ 2021-02-11 19:07:49,984  INFO [main] BaseTest:32 - Number of Passengers : 11
+ 2021-02-11 19:07:49,984  INFO [main] BaseTest:32 - Description : Assert header Summary label
+ 2021-02-11 19:07:49,984  INFO [main] BaseTest:32 - Execution Required : yes
+ 2021-02-11 19:07:49,984  INFO [main] BaseTest:32 - Pickup Location : New Delhi Railway Station, Kamla Market, Ajmeri Gate, New Delhi, Delhi, India
+ 2021-02-11 19:07:49,984  INFO [main] BaseTest:32 - TestCaseName : whenUserDoesNotEnterFromDateAndTimeForOutstation
+ 2021-02-11 19:07:49,984  INFO [main] BaseTest:32 - Expected Result : Outstation
+ 2021-02-11 19:07:49,985  INFO [main] BaseTest:32 - Till Date and Time : 28-02-2021-11:45 AM
+ 2021-02-11 19:07:49,985  INFO [main] BaseTest:38 - ----------------------------------------------------------------------
+ 2021-02-11 19:07:55,702  INFO [main] BaseTest:258 - Bus Hire link was clicked
+ 2021-02-11 19:08:03,859  INFO [main] BaseTest:262 - OutStation Menu was selected
+ 2021-02-11 19:08:06,190  INFO [main] BaseTest:266 - New Delhi Railway Station, Kamla Market, Ajmeri Gate, New Delhi, Delhi, India location was entered
+ 2021-02-11 19:08:07,483  INFO [main] BaseTest:271 - Greater Noida, Pari Chowk, NRI City, Omega II, Greater Noida, Uttar Pradesh, India location was entered
+ 2021-02-11 19:08:10,368  INFO [main] BaseTest:198 - Browser closed...
+ 2021-02-11 19:08:17,865  INFO [main] BaseTest:159 - https://www.redbus.in/ page opened...
+ 2021-02-11 19:08:17,866  INFO [main] BaseTest:23 - ----------------------------------------------------------------------
+ 2021-02-11 19:08:17,866  INFO [main] BaseTest:26 - Test Data For Worksheet Name BusHirePageTestData And For Test Case whenUserDoesNotEnterFromLocationForOutstation
+ 2021-02-11 19:08:17,866  INFO [main] BaseTest:32 - Destination Location : New Delhi Railway Station, Kamla Market, Ajmeri Gate, New Delhi, Delhi, India
+ 2021-02-11 19:08:17,867  INFO [main] BaseTest:32 - From Date and Time : 28-02-2021-11:00 AM
+ 2021-02-11 19:08:17,867  INFO [main] BaseTest:32 - Number of Passengers : 11
+ 2021-02-11 19:08:17,867  INFO [main] BaseTest:32 - Description : Assert header Summary label
+ 2021-02-11 19:08:17,867  INFO [main] BaseTest:32 - Execution Required : yes
+ 2021-02-11 19:08:17,867  INFO [main] BaseTest:32 - TestCaseName : whenUserDoesNotEnterFromLocationForOutstation
+ 2021-02-11 19:08:17,867  INFO [main] BaseTest:32 - Expected Result : Outstation
+ 2021-02-11 19:08:17,867  INFO [main] BaseTest:32 - Till Date and Time : 28-02-2021-10:15 PM
+ 2021-02-11 19:08:17,868  INFO [main] BaseTest:38 - ----------------------------------------------------------------------
+ 2021-02-11 19:08:25,204  INFO [main] BaseTest:127 - Bus Hire link was clicked
+ 2021-02-11 19:08:33,244  INFO [main] BaseTest:131 - OutStation Menu was selected
+ 2021-02-11 19:08:34,531  INFO [main] BaseTest:137 - New Delhi Railway Station, Kamla Market, Ajmeri Gate, New Delhi, Delhi, India location was entered
+ 2021-02-11 19:08:48,060  INFO [main] BaseTest:198 - Browser closed...
+ 2021-02-11 19:09:20,626  INFO [main] BaseTest:159 - https://www.redbus.in/ page opened...
+ 2021-02-11 19:09:20,627  INFO [main] BaseTest:23 - ----------------------------------------------------------------------
+ 2021-02-11 19:09:20,627  INFO [main] BaseTest:26 - Test Data For Worksheet Name BusHirePageTestData And For Test Case whenUserDoesNotEnterTillDateAndTimeForOutstation
+ 2021-02-11 19:09:20,628  INFO [main] BaseTest:32 - Destination Location : Greater Noida, Pari Chowk, NRI City, Omega II, Greater Noida, Uttar Pradesh, India
+ 2021-02-11 19:09:20,628  INFO [main] BaseTest:32 - From Date and Time : 28-02-2021-11:00 AM
+ 2021-02-11 19:09:20,628  INFO [main] BaseTest:32 - Number of Passengers : 81
+ 2021-02-11 19:09:20,628  INFO [main] BaseTest:32 - Description : Assert header Summary label
+ 2021-02-11 19:09:20,628  INFO [main] BaseTest:32 - Execution Required : no
+ 2021-02-11 19:09:20,628  INFO [main] BaseTest:32 - Pickup Location : New Delhi Railway Station, Kamla Market, Ajmeri Gate, New Delhi, Delhi, India
+ 2021-02-11 19:09:20,628  INFO [main] BaseTest:32 - TestCaseName : whenUserDoesNotEnterTillDateAndTimeForOutstation
+ 2021-02-11 19:09:20,629  INFO [main] BaseTest:32 - Expected Result : Outstation
+ 2021-02-11 19:09:20,629  INFO [main] BaseTest:32 - Till Date and Time : 28-02-2021-10:15 PM
+ 2021-02-11 19:09:20,629  INFO [main] BaseTest:38 - ----------------------------------------------------------------------
+ 2021-02-11 19:09:20,629  INFO [main] BaseTest:50 - Execution required is no , skipping the test
+ 2021-02-11 19:09:21,187  INFO [main] BaseTest:198 - Browser closed...
+ 2021-02-11 19:09:38,368  INFO [main] BaseTest:159 - https://www.redbus.in/ page opened...
+ 2021-02-11 19:09:38,368  INFO [main] BaseTest:23 - ----------------------------------------------------------------------
+ 2021-02-11 19:09:38,369  INFO [main] BaseTest:26 - Test Data For Worksheet Name BusHirePageTestData And For Test Case whenUserDoesNotEnterToLocationForOutstation
+ 2021-02-11 19:09:38,369  INFO [main] BaseTest:32 - From Date and Time : 28-02-2021-11:00 AM
+ 2021-02-11 19:09:38,369  INFO [main] BaseTest:32 - Number of Passengers : 11
+ 2021-02-11 19:09:38,369  INFO [main] BaseTest:32 - Description : Assert header Summary label
+ 2021-02-11 19:09:38,370  INFO [main] BaseTest:32 - Execution Required : yes
+ 2021-02-11 19:09:38,370  INFO [main] BaseTest:32 - Pickup Location : New Delhi Railway Station, Kamla Market, Ajmeri Gate, New Delhi, Delhi, India
+ 2021-02-11 19:09:38,370  INFO [main] BaseTest:32 - TestCaseName : whenUserDoesNotEnterToLocationForOutstation
+ 2021-02-11 19:09:38,370  INFO [main] BaseTest:32 - Expected Result : Outstation
+ 2021-02-11 19:09:38,370  INFO [main] BaseTest:32 - Till Date and Time : 28-02-2021-10:15 PM
+ 2021-02-11 19:09:38,370  INFO [main] BaseTest:38 - ----------------------------------------------------------------------
+ 2021-02-11 19:09:44,450  INFO [main] BaseTest:193 - Bus Hire link was clicked
+ 2021-02-11 19:09:52,654  INFO [main] BaseTest:197 - OutStation Menu was selected
+ 2021-02-11 19:09:54,957  INFO [main] BaseTest:201 - New Delhi Railway Station, Kamla Market, Ajmeri Gate, New Delhi, Delhi, India location was entered
+ 2021-02-11 19:10:08,497  INFO [main] BaseTest:198 - Browser closed...
+ 2021-02-11 19:10:17,116  INFO [main] BaseTest:159 - https://www.redbus.in/ page opened...
+ 2021-02-11 19:10:17,116  INFO [main] BaseTest:23 - ----------------------------------------------------------------------
+ 2021-02-11 19:10:17,117  INFO [main] BaseTest:26 - Test Data For Worksheet Name BusHirePageTestData And For Test Case whenUserEntersPassengerNumberGreaterThan60ForOutstation
+ 2021-02-11 19:10:17,117  INFO [main] BaseTest:32 - Destination Location : Greater Noida, Pari Chowk, NRI City, Omega II, Greater Noida, Uttar Pradesh, India
+ 2021-02-11 19:10:17,117  INFO [main] BaseTest:32 - Number of Passengers : 11
+ 2021-02-11 19:10:17,117  INFO [main] BaseTest:32 - Description : Assert header Label
+ 2021-02-11 19:10:17,117  INFO [main] BaseTest:32 - Execution Required : yes
+ 2021-02-11 19:10:17,117  INFO [main] BaseTest:32 - Pickup Location : New Delhi Railway Station, Kamla Market, Ajmeri Gate, New Delhi, Delhi, India
+ 2021-02-11 19:10:17,117  INFO [main] BaseTest:32 - TestCaseName : whenUserEntersPassengerNumberGreaterThan60ForOutstation
+ 2021-02-11 19:10:17,118  INFO [main] BaseTest:32 - Expected Result : Outstation
+ 2021-02-11 19:10:17,118  INFO [main] BaseTest:38 - ----------------------------------------------------------------------
+ 2021-02-11 19:10:22,242  INFO [main] BaseTest:394 - Bus Hire link was clicked
+ 2021-02-11 19:10:31,618  INFO [main] BaseTest:398 - OutStation Menu was selected
+ 2021-02-11 19:10:33,902  INFO [main] BaseTest:402 - New Delhi Railway Station, Kamla Market, Ajmeri Gate, New Delhi, Delhi, India location was entered
+ 2021-02-11 19:10:35,185  INFO [main] BaseTest:406 - Greater Noida, Pari Chowk, NRI City, Omega II, Greater Noida, Uttar Pradesh, India location was entered
+ 2021-02-11 19:10:38,025  INFO [main] BaseTest:198 - Browser closed...
+ 2021-02-11 19:10:49,467  INFO [main] BaseTest:159 - https://www.redbus.in/ page opened...
+ 2021-02-11 19:10:49,468  INFO [main] BaseTest:23 - ----------------------------------------------------------------------
+ 2021-02-11 19:10:49,468  INFO [main] BaseTest:26 - Test Data For Worksheet Name BusHirePageTestData And For Test Case whenUserEntersValidInformationForOutstation
+ 2021-02-11 19:10:49,468  INFO [main] BaseTest:32 - Destination Location : Greater Noida, Pari Chowk, NRI City, Omega II, Greater Noida, Uttar Pradesh, India
+ 2021-02-11 19:10:49,468  INFO [main] BaseTest:32 - From Date and Time : 28-02-2021-11:30 AM
+ 2021-02-11 19:10:49,468  INFO [main] BaseTest:32 - Number of Passengers : 11
+ 2021-02-11 19:10:49,468  INFO [main] BaseTest:32 - Description : Assert header Summary label text
+ 2021-02-11 19:10:49,468  INFO [main] BaseTest:32 - Execution Required : no
+ 2021-02-11 19:10:49,468  INFO [main] BaseTest:32 - Pickup Location : New Delhi Railway Station, Kamla Market, Ajmeri Gate, New Delhi, Delhi, India
+ 2021-02-11 19:10:49,468  INFO [main] BaseTest:32 - TestCaseName : whenUserEntersValidInformationForOutstation
+ 2021-02-11 19:10:49,468  INFO [main] BaseTest:32 - Expected Result : Trip Summary
+ 2021-02-11 19:10:49,468  INFO [main] BaseTest:32 - Till Date and Time : 28-02-2021-10:15 PM
+ 2021-02-11 19:10:49,468  INFO [main] BaseTest:38 - ----------------------------------------------------------------------
+ 2021-02-11 19:10:49,469  INFO [main] BaseTest:50 - Execution required is no , skipping the test
+ 2021-02-11 19:10:50,028  INFO [main] BaseTest:198 - Browser closed...
+ 2021-02-11 19:10:54,526  INFO [main] BaseTest:159 - https://www.redbus.in/ page opened...
+ 2021-02-11 19:10:54,526  INFO [main] BaseTest:23 - ----------------------------------------------------------------------
+ 2021-02-11 19:10:54,526  INFO [main] BaseTest:26 - Test Data For Worksheet Name BusTicketsPageTestDate And For Test Case whenUserClicksOnCancellationLink
+ 2021-02-11 19:10:54,526  INFO [main] BaseTest:32 - Description : Assert Title of page
+ 2021-02-11 19:10:54,526  INFO [main] BaseTest:32 - Execution Required : yes
+ 2021-02-11 19:10:54,526  INFO [main] BaseTest:32 - TestCaseName : whenUserClicksOnCancellationLink
+ 2021-02-11 19:10:54,526  INFO [main] BaseTest:32 - Expected Result : Cancel Ticket - redBus
+ 2021-02-11 19:10:54,526  INFO [main] BaseTest:38 - ----------------------------------------------------------------------
+ 2021-02-11 19:11:01,150  INFO [main] BaseTest:50 - Bus Tickets link was clicked
+ 2021-02-11 19:11:02,242  INFO [main] BaseTest:54 - Cancel Ticket was clicked
+ 2021-02-11 19:11:02,249  INFO [main] BaseTest:58 - ActualTitle :cancel ticket - redbus
+ 2021-02-11 19:11:02,819  INFO [main] BaseTest:198 - Browser closed...
+ 2021-02-11 19:11:10,504  INFO [main] BaseTest:159 - https://www.redbus.in/ page opened...
+ 2021-02-11 19:11:10,505  INFO [main] BaseTest:23 - ----------------------------------------------------------------------
+ 2021-02-11 19:11:10,505  INFO [main] BaseTest:26 - Test Data For Worksheet Name BusTicketsPageTestDate And For Test Case whenUserClicksOnPrintTicket
+ 2021-02-11 19:11:10,506  INFO [main] BaseTest:32 - Description : Assert header label
+ 2021-02-11 19:11:10,506  INFO [main] BaseTest:32 - Execution Required : yes
+ 2021-02-11 19:11:10,506  INFO [main] BaseTest:32 - TestCaseName : whenUserClicksOnPrintTicket
+ 2021-02-11 19:11:10,506  INFO [main] BaseTest:32 - Expected Result : PRINT TICKET
+ 2021-02-11 19:11:10,506  INFO [main] BaseTest:38 - ----------------------------------------------------------------------
+ 2021-02-11 19:11:18,388  INFO [main] BaseTest:92 - Bus Tickets link was clicked
+ 2021-02-11 19:11:19,609  INFO [main] BaseTest:96 - Print Ticket was clicked
+ 2021-02-11 19:11:19,642  INFO [main] BaseTest:100 - ActualTitle :print ticket
+ 2021-02-11 19:11:20,204  INFO [main] BaseTest:198 - Browser closed...
+ 2021-02-11 19:11:38,430  INFO [main] BaseTest:159 - https://www.redbus.in/ page opened...
+ 2021-02-11 19:11:38,431  INFO [main] BaseTest:23 - ----------------------------------------------------------------------
+ 2021-02-11 19:11:38,431  INFO [main] BaseTest:26 - Test Data For Worksheet Name BusTicketsPageTestDate And For Test Case whenUserEnterValidInfoInSearchBus
+ 2021-02-11 19:11:38,432  INFO [main] BaseTest:32 - Description : Assert title of page
+ 2021-02-11 19:11:38,432  INFO [main] BaseTest:32 - Execution Required : yes
+ 2021-02-11 19:11:38,432  INFO [main] BaseTest:32 - From : New Delhi
+ 2021-02-11 19:11:38,432  INFO [main] BaseTest:32 - To : Patna (Bihar)
+ 2021-02-11 19:11:38,432  INFO [main] BaseTest:32 - TestCaseName : whenUserEnterValidInfoInSearchBus
+ 2021-02-11 19:11:38,432  INFO [main] BaseTest:32 - Expected Result : Search Bus Tickets
+ 2021-02-11 19:11:38,432  INFO [main] BaseTest:32 - Date : 25-Mar-2021
+ 2021-02-11 19:11:38,432  INFO [main] BaseTest:38 - ----------------------------------------------------------------------
+ 2021-02-11 19:11:44,420  INFO [main] BaseTest:139 - Bus Tickets link was clicked
+ 2021-02-11 19:11:44,605  INFO [main] BaseTest:143 - New Delhi location was entered
+ 2021-02-11 19:11:44,745  INFO [main] BaseTest:147 - Patna (Bihar) location was entered
+ 2021-02-11 19:11:44,852  INFO [main] BaseTest:151 - 25-Mar-2021 date was entered
+ 2021-02-11 19:11:44,901  INFO [main] BaseTest:155 - Search Buses was clicked
+ 2021-02-11 19:11:44,906  INFO [main] BaseTest:159 - ActualTitle :online bus tickets booking: book bus ticket and bus reservation -redbus india
+ 2021-02-11 19:11:45,788  INFO [main] BaseTest:198 - Browser closed...
+ 2021-02-11 19:11:53,824  INFO [main] BaseTest:159 - https://www.redbus.in/ page opened...
+ 2021-02-11 19:11:53,825  INFO [main] BaseTest:23 - ----------------------------------------------------------------------
+ 2021-02-11 19:11:53,825  INFO [main] BaseTest:26 - Test Data For Worksheet Name TripSummaryPageTestData And For Test Case whenUserEntersInvalidMobileNumber
+ 2021-02-11 19:11:53,825  INFO [main] BaseTest:32 - EmailID : iAmDarkKnight@gmail.com
+ 2021-02-11 19:11:53,825  INFO [main] BaseTest:32 - AdditionalInfo : This is test check
+ 2021-02-11 19:11:53,825  INFO [main] BaseTest:32 - MobileNumber : 1111111111
+ 2021-02-11 19:11:53,825  INFO [main] BaseTest:32 - Description : Assert header label
+ 2021-02-11 19:11:53,825  INFO [main] BaseTest:32 - Execution Required : yes
+ 2021-02-11 19:11:53,825  INFO [main] BaseTest:32 - Prerequirement : Any of the trip data filled successfully
+ 2021-02-11 19:11:53,825  INFO [main] BaseTest:32 - TestCaseName : whenUserEntersInvalidMobileNumber
+ 2021-02-11 19:11:53,825  INFO [main] BaseTest:32 - Expected Result : Trip Summary
+ 2021-02-11 19:11:53,826  INFO [main] BaseTest:32 - Name : Narayan Krishna
+ 2021-02-11 19:11:53,826  INFO [main] BaseTest:38 - ----------------------------------------------------------------------
+ 2021-02-11 19:11:53,826  INFO [main] BaseTest:23 - ----------------------------------------------------------------------
+ 2021-02-11 19:11:53,827  INFO [main] BaseTest:26 - Test Data For Worksheet Name BusHirePageTestData And For Test Case whenUserEntersValidInformationForOutstation
+ 2021-02-11 19:11:53,827  INFO [main] BaseTest:32 - Destination Location : Greater Noida, Pari Chowk, NRI City, Omega II, Greater Noida, Uttar Pradesh, India
+ 2021-02-11 19:11:53,827  INFO [main] BaseTest:32 - From Date and Time : 28-02-2021-11:30 AM
+ 2021-02-11 19:11:53,827  INFO [main] BaseTest:32 - Number of Passengers : 11
+ 2021-02-11 19:11:53,827  INFO [main] BaseTest:32 - Description : Assert header Summary label text
+ 2021-02-11 19:11:53,827  INFO [main] BaseTest:32 - Execution Required : no
+ 2021-02-11 19:11:53,827  INFO [main] BaseTest:32 - Pickup Location : New Delhi Railway Station, Kamla Market, Ajmeri Gate, New Delhi, Delhi, India
+ 2021-02-11 19:11:53,828  INFO [main] BaseTest:32 - TestCaseName : whenUserEntersValidInformationForOutstation
+ 2021-02-11 19:11:53,828  INFO [main] BaseTest:32 - Expected Result : Trip Summary
+ 2021-02-11 19:11:53,828  INFO [main] BaseTest:32 - Till Date and Time : 28-02-2021-10:15 PM
+ 2021-02-11 19:11:53,828  INFO [main] BaseTest:38 - ----------------------------------------------------------------------
+ 2021-02-11 19:11:57,177  INFO [main] BaseTest:38 - Bus Hire link was clicked
+ 2021-02-11 19:12:05,399  INFO [main] BaseTest:41 - OutStation Menu was selected
+ 2021-02-11 19:12:07,683  INFO [main] BaseTest:44 - New Delhi Railway Station, Kamla Market, Ajmeri Gate, New Delhi, Delhi, India location was entered
+ 2021-02-11 19:12:08,973  INFO [main] BaseTest:47 - Greater Noida, Pari Chowk, NRI City, Omega II, Greater Noida, Uttar Pradesh, India location was entered
+ 2021-02-11 19:12:22,477  INFO [main] BaseTest:198 - Browser closed...
+ 2021-02-11 19:12:30,297  INFO [main] BaseTest:159 - https://www.redbus.in/ page opened...
+ 2021-02-11 19:12:30,298  INFO [main] BaseTest:23 - ----------------------------------------------------------------------
+ 2021-02-11 19:12:30,298  INFO [main] BaseTest:26 - Test Data For Worksheet Name TripSummaryPageTestData And For Test Case whenUserEntersValidDetail
+ 2021-02-11 19:12:30,298  INFO [main] BaseTest:32 - EmailID : iAmDarkKnight@gmail.com
+ 2021-02-11 19:12:30,299  INFO [main] BaseTest:32 - AdditionalInfo : This is test check
+ 2021-02-11 19:12:30,299  INFO [main] BaseTest:32 - MobileNumber : 9876543210
+ 2021-02-11 19:12:30,299  INFO [main] BaseTest:32 - Description : AssertTrue Verify your Mobile Number
+ 2021-02-11 19:12:30,299  INFO [main] BaseTest:32 - Execution Required : yes
+ 2021-02-11 19:12:30,299  INFO [main] BaseTest:32 - Prerequirement : Any of the trip data filled successfully
+ 2021-02-11 19:12:30,299  INFO [main] BaseTest:32 - TestCaseName : whenUserEntersValidDetail
+ 2021-02-11 19:12:30,299  INFO [main] BaseTest:32 - Expected Result : verify your mobile number
+ 2021-02-11 19:12:30,299  INFO [main] BaseTest:32 - Name : Narayan Krishna
+ 2021-02-11 19:12:30,299  INFO [main] BaseTest:38 - ----------------------------------------------------------------------
+ 2021-02-11 19:12:30,301  INFO [main] BaseTest:23 - ----------------------------------------------------------------------
+ 2021-02-11 19:12:30,301  INFO [main] BaseTest:26 - Test Data For Worksheet Name BusHirePageTestData And For Test Case whenUserEntersValidInformationForOutstation
+ 2021-02-11 19:12:30,302  INFO [main] BaseTest:32 - Destination Location : Greater Noida, Pari Chowk, NRI City, Omega II, Greater Noida, Uttar Pradesh, India
+ 2021-02-11 19:12:30,302  INFO [main] BaseTest:32 - From Date and Time : 28-02-2021-11:30 AM
+ 2021-02-11 19:12:30,302  INFO [main] BaseTest:32 - Number of Passengers : 11
+ 2021-02-11 19:12:30,302  INFO [main] BaseTest:32 - Description : Assert header Summary label text
+ 2021-02-11 19:12:30,302  INFO [main] BaseTest:32 - Execution Required : no
+ 2021-02-11 19:12:30,302  INFO [main] BaseTest:32 - Pickup Location : New Delhi Railway Station, Kamla Market, Ajmeri Gate, New Delhi, Delhi, India
+ 2021-02-11 19:12:30,303  INFO [main] BaseTest:32 - TestCaseName : whenUserEntersValidInformationForOutstation
+ 2021-02-11 19:12:30,303  INFO [main] BaseTest:32 - Expected Result : Trip Summary
+ 2021-02-11 19:12:30,303  INFO [main] BaseTest:32 - Till Date and Time : 28-02-2021-10:15 PM
+ 2021-02-11 19:12:30,303  INFO [main] BaseTest:38 - ----------------------------------------------------------------------
+ 2021-02-11 19:12:37,988  INFO [main] BaseTest:38 - Bus Hire link was clicked
+ 2021-02-11 19:12:47,313  INFO [main] BaseTest:41 - OutStation Menu was selected
+ 2021-02-11 19:12:49,629  INFO [main] BaseTest:44 - New Delhi Railway Station, Kamla Market, Ajmeri Gate, New Delhi, Delhi, India location was entered
+ 2021-02-11 19:12:50,909  INFO [main] BaseTest:47 - Greater Noida, Pari Chowk, NRI City, Omega II, Greater Noida, Uttar Pradesh, India location was entered
+ 2021-02-11 19:13:04,470  INFO [main] BaseTest:198 - Browser closed...
+ 
