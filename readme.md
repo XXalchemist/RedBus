@@ -44,7 +44,7 @@ java -jar jenkins.war --httpPort=9090
 
 #### Jenkins Final
 
-![Jenkins Final](./ReadmeScreenshots/SettingUpJenkins.jpg)
+![Jenkins Final](./ReadmeScreenshots/jenkins.jpg)
 
 ## How to run in docker and parallely
 
