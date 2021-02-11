@@ -4,6 +4,7 @@ _More details in aboutAssignment.txt_
 ## How to run
 
 - Clone repo from the github link
+- gitHub link :- **https://github.com/XXalchemist/RedBus**
 - run RunAssignment.bat
 
 ## Important Note
